@@ -1,0 +1,101 @@
+﻿State,Population 2010,Population 2019,Senator Name,Party,Share of Vote
+Alabama,4785437,4903185,Richard Shelby,R,0.641
+Alabama,4785437,4903185,Tommy Tuberville,R,0.601
+Alaska,713910,731545,Dan Sullivan,R,0.539
+Alaska,713910,731545,Lisa Murkowski,R,0.501
+Arizona,6407172,7278717,Mark Kelly,D,0.512
+Arizona,6407172,7278717,Kyrsten Sinema,D,0.501
+Arkansas,2921964,3017804,John Boozman,R,0.598
+Arkansas,2921964,3017804,Tom Cotton,R,0.665
+California,37319502,39512223,Dianne Feinstein,D,0.603
+California,37319502,39512223,Alex Padilla,D,0.616
+Colorado,5047349,5758736,Michael Bennet,D,0.501
+Colorado,5047349,5758736,John Hickenlooper,D,0.535
+Connecticut,3579114,3565287,Richard Blumenthal,D,0.632
+Connecticut,3579114,3565287,Chris Murphy,D,0.595
+Delaware,899593,973764,Chris Coons,D,0.594
+Delaware,899593,973764,Tom Carper,D,0.6
+Florida,18845537,21477737,Rick Scott,R,0.501
+Florida,18845537,21477737,Marco Rubio,R,0.52
+Georgia,9711881,10617423,Raphael Warnock,D,0.51
+Georgia,9711881,10617423,Jon Ossoff,D,0.506
+Hawaii,1363963,1415872,Brian Schatz,D,0.736
+Hawaii,1363963,1415872,Mazie Hirono,D,0.712
+Idaho,1570746,1787065,Mike Crapo,R,0.661
+Idaho,1570746,1787065,Jim Risch,R,0.626
+Illinois,12840503,12671821,Dick Durbin,D,0.549
+Illinois,12840503,12671821,Tammy Duckworth,D,0.549
+Indiana,6490432,6732219,Mike Braun,R,0.509
+Indiana,6490432,6732219,Todd Young,R,0.521
+Iowa,3050745,3155070,Joni Ernst,R,0.518
+Iowa,3050745,3155070,Chuck Grassley,R,0.602
+Kansas,2858190,2913314,Roger Marshall,R,0.532
+Kansas,2858190,2913314,Jerry Moran,R,0.622
+Kentucky,4348181,4467673,Mitch McConnell,R,0.578
+Kentucky,4348181,4467673,Rand Paul,R,0.573
+Louisiana,4544532,4648794,John Kennedy,R,0.61
+Louisiana,4544532,4648794,Bill Cassidy,R,0.593
+Maine,1327629,1344212,Angus King,D,0.543
+Maine,1327629,1344212,Susan Collins,R,0.51
+Maryland,5788645,6045680,Ben Cardin,D,0.649
+Maryland,5788645,6045680,Chris Van Hollen,D,0.61
+Massachusetts,6566307,6892503,Elizabeth Warren,D,0.604
+Massachusetts,6566307,6892503,Ed Markey,D,0.662
+Michigan,9877510,9986857,Debbie Stabenow,D,0.523
+Michigan,9877510,9986857,Gary Peters,D,0.501
+Minnesota,5310828,5639632,Amy Klobuchar,D,0.603
+Minnesota,5310828,5639632,Tina Smith,D,0.501
+Mississippi,2970548,2976149,Roger Wicker,R,0.585
+Mississippi,2970548,2976149,Cindy Hyde-Smith,R,0.541
+Missouri,5995974,6137428,Roy Blunt,R,0.501
+Missouri,5995974,6137428,Josh Hawley,R,0.514
+Montana,990697,1068778,Jon Tester,D,0.503
+Montana,990697,1068778,Steve Daines,R,0.55
+Nebraska,1829542,1934408,Ben Sasse,R,0.627
+Nebraska,1829542,1934408,Deb Fischer,R,0.577
+Nevada,2702405,3080156,Catherine Cortez Masto,D,0.471
+Nevada,2702405,3080156,Jacky Rosen,D,0.504
+New Hampshire,1316762,1359711,Jeanne Shaheen,D,0.566
+New Hampshire,1316762,1359711,Maggie Hassan,D,0.501
+New Jersey,8799446,8882190,Cory Booker,D,0.572
+New Jersey,8799446,8882190,Robert Menendez,D,0.54
+New Mexico,2064552,2096829,Martin Heinrich,D,0.541
+New Mexico,2064552,2096829,Ben Ray Lujan,D,0.517
+New York,19399878,19453561,Kirsten Gillibrand,D,0.67
+New York,19399878,19453561,Chuck Schumer,D,0.706
+North Carolina,9574323,10488084,Richard Burr,R,0.511
+North Carolina,9574323,10488084,Thom Tillis,R,0.501
+North Dakota,674715,762062,Kevin Cramer,R,0.555
+North Dakota,674715,762062,John Hoeven,R,0.786
+Ohio,11539336,11689100,Sherrod Brown,D,0.534
+Ohio,11539336,11689100,Rob Portman,R,0.58
+Oklahoma,3759944,3956971,Jim Inhofe,R,0.629
+Oklahoma,3759944,3956971,James Lankford,R,0.677
+Oregon,3837491,4217737,Ron Wyden,D,0.567
+Oregon,3837491,4217737,Jeff Merkley,D,0.569
+Pennsylvania,12711160,12801989,Bob Casey,D,0.557
+Pennsylvania,12711160,12801989,Pat Toomey,R,0.501
+Rhode Island,1053959,1059361,Sheldon Whitehouse,D,0.616
+Rhode Island,1053959,1059361,Jack Reed,D,0.666
+South Carolina,4635649,5148714,Lindsey Graham,R,0.545
+South Carolina,4635649,5148714,Tim Scott,R,0.606
+South Dakota,816166,884659,Mike Rounds,R,0.657
+South Dakota,816166,884659,John Thune,R,0.718
+Tennessee,6355311,6829174,Marsha Blackburn,R,0.547
+Tennessee,6355311,6829174,Bill Hagerty,R,0.622
+Texas,25241971,28995881,Ted Cruz,R,0.509
+Texas,25241971,28995881,John Cornyn,R,0.535
+Utah,2775332,3205958,Mitt Romney,R,0.626
+Utah,2775332,3205958,Mike Lee,R,0.681
+Vermont,625879,623989,Bernie Sanders,D,0.674
+Vermont,625879,623989,Patrick Leahy,D,0.613
+Virginia,8023699,8535519,Mark Warner,D,0.56
+Virginia,8023699,8535519,Tim Kaine,D,0.571
+Washington,6742830,7614893,Patty Murray,D,0.59
+Washington,6742830,7614893,Maria Cantwell,D,0.584
+West Virginia,1854239,1792147,Joe Manchin,D,0.501
+West Virginia,1854239,1792147,Shelley Moore-Capito,R,0.703
+Wisconsin,5690475,5822434,Tammy Baldwin,D,0.554
+Wisconsin,5690475,5822434,Ron Johnson,R,0.502
+Wyoming,564487,578759,John Barrasso,R,0.671
+Wyoming,564487,578759,Cynthia Lummis,R,0.731
